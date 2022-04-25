@@ -181,7 +181,7 @@ click E "https://app.consortium.mortgage" "Sign in"
       - Currently, for the demo purpose you will use AAD as Identity Provider. In the future this could be changed to any other IDP, for instance BankID.
       - Click `sign up now`
       <p align="left">
-        <img src="assets/doc/auth/auth.png" alt="Auth" width="400" height="400" />
+        <img src="https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/doc/auth/auth.png" alt="Auth" width="400" height="400" />
       </p>
 
   4. After successful sign-up, please wait approximately 1 hour for verification of your identity
