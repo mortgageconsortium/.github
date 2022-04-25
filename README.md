@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="assets/img/logosmall_white.png" alt="Logo" width="80" height="80" />
+    <img src="https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/logosmall_white.png" alt="Logo" width="80" height="80" />
   </a>
 
   <h3 align="center">Real Estate Consortium</h3>
@@ -83,7 +83,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Project page
-[![Illustration demo page][product-screenshot]](https://github.com/mortgageconsortium/mortgageconsortium.github.io/assets/img/mcons-demo.png) 
+[![Illustration demo page][product-screenshot]](https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons-demo.png) 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
