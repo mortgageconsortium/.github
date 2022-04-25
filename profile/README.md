@@ -44,7 +44,7 @@
     <br />
     <br />
     <a href="https://home.consortium.mortgage">Home Page</a>
-    .
+    ·
     <a href="#">View Demo</a>
     ·
     <a href="https://github.com/mortgageconsortium/mortgageconsortium.github.io/issues"
