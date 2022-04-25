@@ -36,13 +36,15 @@
   <h3 align="center">Real Estate Consortium</h3>
 
   <p align="center">
-    Consortium documentation & Home page
+    Consortium documentation & project page
     <br />
     <a href="#getting-started"
       ><strong>Explore the docs »</strong></a
     >
     <br />
     <br />
+    <a href="https://home.consortium.mortgage">Home Page</a>
+    .
     <a href="#">View Demo</a>
     ·
     <a href="https://github.com/mortgageconsortium/mortgageconsortium.github.io/issues"
