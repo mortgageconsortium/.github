@@ -1,0 +1,13 @@
+{
+    "name": "Release NPM Typescript Library",
+    "description": "Build NPM package and publish it to GitHub packages.",
+    "iconName": "package",
+    "categories": [
+        "NPM"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
