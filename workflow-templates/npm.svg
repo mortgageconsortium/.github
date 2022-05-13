@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="npm" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#fff"/><path fill="none" stroke="#cb3837" stroke-width="22" d="m234 311h213v-112H65v112h113V210m-12 123h90M133 232v68m112-68v45m45-67v90m67-68v68m45-68v68"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 67 66" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round"><use xlink:href="#A" x="1" y="1"/><symbol id="A" overflow="visible"><g stroke="none" fill-rule="nonzero"><path d="M0 0h64v64H0z" fill="#cb3837"/><path d="M10.728 53.272h21.086V21.456h10.728v31.816H53.27V10.728H10.728z"/></g></symbol></svg>
