@@ -85,7 +85,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Project page
-[![Illustration demo page][product-screenshot]](https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons-demo.png) 
+[![Illustration demo page][product-screenshot]](https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons_demo.png) 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
