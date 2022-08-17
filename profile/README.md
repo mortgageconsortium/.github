@@ -289,4 +289,4 @@ https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linked
 [linkedin-url]: 
 https://www.linkedin.com/in/tomas-slavik 
 [product-screenshot]: 
-https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons-demo.png
+https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons_demo.png
