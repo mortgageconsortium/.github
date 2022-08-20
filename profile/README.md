@@ -45,7 +45,7 @@
     <br />
     <a href="https://home.consortium.mortgage">Home Page</a>
     ·
-    <a href="#">View Demo</a>
+    <a href="#product-video">View Demo</a>
     ·
     <a href="https://github.com/mortgageconsortium/mortgageconsortium.github.io/issues"
       >Report Bug</a
@@ -84,9 +84,8 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## Project page
-[![Illustration demo page][product-screenshot]](https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons_demo.png) 
-
+## Project video
+[![Watch the video][product-video]](https://mconssavc.blob.core.windows.net/video/mcons.mp4)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -288,5 +287,5 @@ https://github.com/mortgageconsortium/mortgageconsortium.github.io/blob/master/L
 https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&color=blue
 [linkedin-url]: 
 https://www.linkedin.com/in/tomas-slavik 
-[product-screenshot]: 
-https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons_demo.png
+[product-video]: 
+https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/video_thumb.png
