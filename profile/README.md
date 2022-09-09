@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons_logo_white.png" alt="Logo" width="80" height="72" />
+    <img src="https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons_logo_blue.png" alt="Logo" width="80" height="72" />
   </a>
 
   <h3 align="center">Real Estate Consortium</h3>
