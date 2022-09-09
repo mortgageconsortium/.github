@@ -30,10 +30,14 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons_logo_blue.png#gh-light-mode-only" alt="Logo" width="80" height="72" />
-    <img src="https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons_logo_white.png#gh-dark-mode-only" alt="Logo" width="80" height="72" />
-  </a>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons_logo_white.png" width="80" height="72">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons_logo_blue.png" width="80" height="72">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons_logo_white.png" width="80" height="72">
 
+  </a>
+    
+
+    
   <h3 align="center">Real Estate Consortium</h3>
 
   <p align="center">
