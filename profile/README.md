@@ -30,8 +30,8 @@
 <br />
 <div align="center">
   <a href="#">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons_logo_white.png" width="80" height="72">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons_logo_blue.png" width="80" height="72">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons_logo_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons_logo_blue.png">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/mortgageconsortium/mortgageconsortium.github.io/raw/main/assets/img/mcons_logo_white.png" width="80" height="72">
 
   </a>
