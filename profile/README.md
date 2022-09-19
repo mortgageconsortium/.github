@@ -114,6 +114,7 @@ bootstrap our project. Whole project is built on Azure & GitHub resources and le
   
 In this section we give you instructions on
 setting up prerequisites and being aware of features that are currently available.
+`Currently we are in process of moving to new domain. You might see some errors due that`
 
 ### Prerequisites 
 This is an example of how to list things you need to use the software and how to install them. 
