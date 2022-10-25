@@ -91,7 +91,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## Project video
+## Product video
 [![Watch the video][product-video]](https://mconssavc.blob.core.windows.net/video/mcons.mp4)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
