@@ -40,7 +40,7 @@
     
 
     
-  <h3 align="center">Real Estate Consortium</h3>
+  <h3 align="center">Sonic Reality</h3>
 
   <p align="center">
     Consortium documentation & project page
@@ -50,7 +50,7 @@
     >
     <br />
     <br />
-    <a href="https://home.consortium.mortgage">Home Page</a>
+    <a href="https://home.sonicreality.online/">Home Page</a>
     ·
     <a href="#product-video">View Demo</a>
     ·
